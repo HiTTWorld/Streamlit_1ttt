@@ -3,7 +3,7 @@ import streamlit as st
 
 
 st.set_page_config(page_title="Streamlit_TEST")
-st.title('먹메 이놈들아')
+st.title('사탕사탕')
 
 st.write("우리 다같이 언제보냐 파일이나 올려봐라 ㅋㅋㅋ")
 
